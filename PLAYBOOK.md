@@ -33,6 +33,13 @@ Formula: call out the viewer + pain + visual change in the first second. Text on
 - "Your competitor's site loads in 1 second. Yours takes 9."
 - "Owners of [niche]: send this to whoever made your website." (built for DM sends)
 
+## 3b. Re-hooks (Mouad's rule: every reel has one)
+A re-hook is a second hook placed where viewers typically swipe (≈35–60% of the reel) that re-opens curiosity.
+- Lines: "But the worst part is this." · "And it gets worse." · "Number three is the one costing you the most." ·
+  "Wait — watch what happens when they try to book." · "This next one kills most small businesses." · "Here's the part nobody tells you."
+- Pair it with a visual pattern interrupt (punch zoom, big word, sound hit) so it works muted too.
+- Rotate lines; never repeat the same re-hook in consecutive videos. Research task: add new proven re-hook lines here.
+
 ## 4. Script structure (18–30 s)
 Hook (0–2 s) → 2–3 problems, one per beat (2–3 s each) → turn ("here's how we fix it") → 2–3 wins → CTA
 ("Contact us, and we'll update your website. Comment website to get started.").
@@ -62,5 +69,6 @@ One idea per sentence, ≤ 12 words per line, no intro, end right after the payo
 - Open on the "bad website" phone mockup already moving at frame 1 vs. opening on the character — compare skip rate.
 
 ## Changelog
+- 2026-11-16: added §3b re-hooks (requested by Mouad); every video now also varies theme/layout/caption style/transition.
 - 2026-11-15: playbook created from initial research.
 - 2026-11-16 (Mon, algorithm): rewrote §1 — skip rate/retention chart as key metrics, account-level originality rule (rolling 30 days), no-watermark rule, AI-profile label scope, scheduling safe, trial-reel limits, series linking removed, Your Algorithm topic clarity; added 3-s editing rule, §6b baseline numbers, 2 tests.
