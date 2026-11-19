@@ -11,13 +11,15 @@ Hard rules: no "free" offers; strictly flat 2D characters in every video; no fak
 - Skip-rate benchmark: no official one. Socialinsider (9.8M organic reels, Jan–Jun 2026) averages ≈65% for 1–5K-follower accounts, ≈60% for 100K–1M. Our target: < 50%; anything > 60% = rewrite the hook type.
 - Length: reels up to 3 min are recommendable to non-followers; **never go over 3:00** (Buffer, 2.7M reels Jan–Aug 2026: 180 s+ reels got −49% reach vs the account's own baseline). Under 90 s every length bucket was within ~3% of baseline (Buffer) and Socialinsider saw only 5.6% vs 5.2% reach rate for 30–60 s vs < 30 s → length is not our lever, retention is. Keep 18–35 s while our avg watch is ~5–12 s; make a reel longer only when the story needs it (§7).
 - **Originality (account-level, Apr 2026):** accounts that mostly post unoriginal content (reposts, reuploads, light edits) lose recommendations to non-followers; eligibility returns once most posts in a rolling 30 days are original. Borders, watermarks, speed changes or credits do not make a repost original. Our own animation + voice-over is original — never repost other creators' clips; share others' content to Stories only. Check Settings → Account Status if reach drops suddenly.
+- **Content protection (Nov 17, 2026, reported):** creators are getting a tool that finds copies of their Reels and lets them block the copy, add an "original by" label, or track it. If Mouad gets the activity-feed notification, enrol (covers every new reel). Instagram also says it is looking at limiting reach of accounts that keep AI-reposting others' work.
+- Benchmarks (Metricool 2026 Instagram study): average Reels watch time ≈ 8.5 s; ~65% of a reel's views come in its first 3 days → judge a reel after 72 h, not 16 h.
 - No other-app watermarks (CapCut/TikTok logos): content made in other apps is fine only without the watermark (Mosseri, Oct 2026).
 - AI: content is not demoted for being AI (Mosseri). The "AI-generated profile" label (Aug 2026) is only for accounts featuring AI-generated *people*; using AI for graphics/edits/captions doesn't need it. Our strictly flat 2D characters avoid this — never use realistic AI humans.
 - Scheduling posts does not hurt reach; deleting a post doesn't hurt other posts (Mosseri, Oct 2026).
 - Trial reels (shown to non-followers first; if the account has access): several per day is fine, but re-posting the *same* reel as a trial again and again will be cracked down on. A daily cap is being tested.
 - Reels "series" linking was removed (Oct 28, 2026): don't rely on linked Part 1/Part 2; every reel must stand alone.
 - "Your Algorithm" lets viewers add/remove topics for their Reels feed: keep every reel clearly about one topic (websites for small businesses) in voice, on-screen text and caption keywords.
-Sources: socialinsider.io (Reels statistics 2026, updated Nov 6), buffer.com (Reels length study, 2.7M reels, Nov 12 2026), socialmediatoday.com (Instagram Edits video tips, Aug 2026), creators.instagram.com (original content guidelines), tubefilter.com (aggregator penalty, Apr 2026), techcrunch.com (AI-generated profile label, Aug 2026), socialsamosa.com + metricool.com (skip rate & retention chart), zoomsphere.com (Mosseri Q&As Oct 2026, secondhand), metricool.com (Instagram news: series removal), sproutsocial.com (algorithm 2026).
+Sources: socialinsider.io (Reels statistics 2026, updated Nov 6), buffer.com (Reels length study, 2.7M reels, Nov 12 2026), socialmediatoday.com (Instagram Edits video tips, Aug 2026), creators.instagram.com (original content guidelines), tubefilter.com (aggregator penalty, Apr 2026), techcrunch.com (AI-generated profile label, Aug 2026), socialsamosa.com + metricool.com (skip rate & retention chart), zoomsphere.com (Mosseri Q&As Oct 2026, secondhand), metricool.com (Instagram news: series removal; 2026 Instagram study via newsletter, Jun 2026), thenextweb.com (content protection + AI-repost limits, Nov 17 2026), sproutsocial.com (algorithm 2026).
 
 ## 2. Video types that work for web devs / agencies
 - Before → after website transformation (best all-rounder)
@@ -71,12 +73,19 @@ Rules:
 Sources: socialmediatoday.com + emplifi.io (Reels speech/loop data, Mar 2026), socialync.io (hook-body-payoff structure, Mar 2026), buzzsprout.com (Josh Hall podcast ep. 374 with Blaze Smith, Apr 2025), buffer.com (six-figure service business via Reels, 2023).
 
 ## 5. Editing
-- Movement or change in the very first frame; no static opening.
-- Burned-in word-by-word captions (most people watch muted), max ~6 words per line, key word in colour.
-- A cut, zoom, pop or new element every 1–2 s; sound effect on every visual beat.
-- Progress bar at top, quiet music bed under the voice, loudness ≈ -14 LUFS.
-- First 3 s = skip-rate zone: the problem must be visible and spoken before 0:03 (no logo, no "hey guys").
-- Export clean: no editor watermarks/end cards.
+Instagram's own 5-step editing advice (Aug 2026): hook in the first seconds and trim anything slow at the start → cut on the beat and match transitions to the music's energy → on-screen text for sound-off viewers, graphics/effects used sparingly → check skip rate + drop-off in Insights → reuse templates. Our rules:
+- **Frame 1:** movement already happening; no static opening, no logo, no title card. The problem must be visible and spoken before 0:03.
+- **Character in the first 3 s:** show the flat 2D character (owner or customer) reacting within 0–3 s, next to or holding the phone mockup. Emplifi (Facebook brand Reels, Mar 2026): a person visible in the first 3 s gave +10% 10-s retention; ours is a 2D character, so treat as a test (§7), never a realistic human.
+- **Full-frame vertical 9:16 (1080×1920)**, no letterbox/black bars (Emplifi: vertical vs other formats +23% 10-s retention, +21% reach).
+- **Captions:** burned-in word-by-word, max ~6 words on screen, ≥ 45 px bold sans-serif with dark stroke/shadow, key word in colour. Text on screen also lifted retention in Emplifi's data (+5% at 3 s, +8% at 10 s).
+- **Safe zones (1080×1920):** nothing important in the bottom ~280 px (caption/audio bar), right ~100 px (like/share icons) or top ~150 px. Hook text in the band ~200–600 px from the top; word-by-word captions in the middle band (~900–1450 px). Phone mockup centred, its key UI (buttons, "Order" bar) above the bottom 280 px. (Vendor guidance, not Meta — check on a real phone preview.)
+- **Pacing — clarity over frantic cuts:** a visual change (cut, zoom, new element, highlight on the phone) about every 2–3 s and never > 3 s without one; don't cut every second just for speed. Emplifi found overall pacing had little effect on retention and slower pacing slightly *helped* 30-s retention (+8%). Speed up only at the hook and the re-hook.
+- **Cut on the beat:** land scene changes and caption pops on music beats; sound effect (whoosh, pop, ding, error buzz) on every visual beat, a distinct "fail" sound when the bad site breaks and a "success" sound at the payoff.
+- **Mid-reel dip fix:** retention usually sags in the middle → put the re-hook (§3b) there with a punch-zoom + big word + sound hit.
+- **Audio:** our own voice-over leads from 0:00; quiet music bed under it, total loudness ≈ -14 LUFS. Never reuse another creator's original audio over new visuals (Instagram is testing flags for AI videos that do this, Nov 2026).
+- Progress bar at top (inside the top safe zone, thin). Export clean: no editor watermarks/end cards.
+- Optional Edits tools: beat markers (cut on beat), "First Draft" auto-trims pauses, Mac app with keyframes + auto-captions + 4K no-watermark export.
+Sources: socialmediatoday.com (Instagram's creator video editing tips, Aug 2026; Edits updates Jan 2026), emplifi.io (Facebook Reels data: person/text/pacing/vertical, Mar 2026), trymypost.com (Reels safe zones, 2026), metricool.com (Edits/Instagram news, Nov 2026), thenextweb.com (content protection + AI audio reuse, Nov 17 2026).
 
 ## 6. Posting & growth
 - Consistency beats volume; 3 reels/day is our cadence.
@@ -100,11 +109,17 @@ Sources: socialmediatoday.com + emplifi.io (Reels speech/loop data, Mar 2026), s
   - Showcase "3 websites, 3 businesses" (no problem, no person) **82.1%**, 3.1 s — worst: don't post pure showcases.
   - Florist "doesn't need to be bad… just forgettable" (posted today): too early.
   - Lesson: what won is a *scene + loss + story* (street, empty shop, customer chooses), not the contrast word itself. Default the story-arc pattern (§4 A) for at least 1 of the 3 daily reels.
+- 2026-11-19 (Windsor still shows only the 7 reels posted up to Nov 18 00:00 UTC; later posts not synced yet):
+  - Florist "doesn't need to be bad… just forgettable" + 4-step demo: **74.2%** skip, 3.8 s, reach 27 → abstract contrarian line + demo with no customer failed like the showcase. Confirms: open on a concrete scene with a loss.
+  - Pizza story 35.2% / 11.4 s (stable); others unchanged (55–83%). Still 0 shares, 0 comments on all 7.
+  - Our avg watch on non-pizza reels (3–7 s) is below Metricool's 8.5 s average; pizza (11.4 s) is above it. Track Instagram's new **share rate** metric per reel alongside skip rate.
 
 ## 7. Ideas to test next
 - POV format, myth-vs-fact, "send this to your web designer" hooks, niches: gym, real estate, restaurant, auto repair, florist.
 - A/B two hooks for the same script via trial reels (if available): different first 3 s, compare skip rate.
-- Open on the "bad website" phone mockup already moving at frame 1 vs. opening on the character — compare skip rate.
+- Frame 1 = phone mockup alone vs. phone + reacting 2D character in the same frame (Emplifi: person in first 3 s helped 10-s retention) — compare skip rate.
+- Calm pacing (visual change every ~2.5 s, fast only at hook/re-hook) vs. a change every ~1 s, same script — compare avg watch time.
+- Cut-on-beat edit (scene changes on music beats) vs. cuts placed only on voice lines — compare avg watch.
 - Contrast hook in new niches (2 shops/2 phones split-screen: gym, barber, florist) to check the pizza result wasn't a fluke.
 - Numbered-list hook as on-screen text ("3 things every [niche] website needs") vs. contrast hook — skip rate + saves.
 - One 30–45 s story reel per day vs. 15–25 s — compare reach and avg watch %.
@@ -113,6 +128,7 @@ Sources: socialmediatoday.com + emplifi.io (Reels speech/loop data, Mar 2026), s
 - "Website breakdown" format: a generic (unnamed, invented) local-business site, 3 problems circled on the phone mockup in 20–25 s; labelled "concept". Idea from web designer Blaze Smith, who got clients by breaking down well-known sites.
 
 ## Changelog
+- 2026-11-19 (Thu, editing): §5 rebuilt — Instagram's official 5-step editing advice, character-in-first-3-s rule, full-frame 9:16, caption size/stroke spec, 1080×1920 safe zones, pacing changed from "cut every 1–2 s" to "visual change every 2–3 s, fast only at hook/re-hook" (Emplifi: pacing barely matters, slower helped 30-s retention), cut-on-beat + fail/success sounds, mid-reel dip fix, no reuse of others' audio; §1 content-protection tool + AI-repost reach limits (Nov 17), Metricool 8.5 s avg watch + judge after 72 h; §6b florist 74% skip (abstract hook confirmed weak), track share rate; 3 editing tests in §7.
 - 2026-11-18 (Wed, scripts & storytelling): §4 rebuilt — Hook→Bridge→Body→Payoff→CTA→loop, 3 body patterns (story arc beat sheet, numbered list, demo) with timings, voice-from-0:00 rule (Emplifi), bridge lines, loop-ending rule, plain-words list, owner self-check, value/offer mix; §1 length updated with Buffer 2.7M-reel study (never > 3:00; < 90 s length barely matters); §3 contrast hooks need a physical scene + loss; §6b 7-reel update (pizza story 34% skip; abstract contrast 78%, showcase 82%); 3 new tests in §7.
 - 2026-11-16: added §3b re-hooks (requested by Mouad); every video now also varies theme/layout/caption style/transition.
 - 2026-11-15: playbook created from initial research.
