@@ -22,12 +22,19 @@ Hard rules: no "free" offers; strictly flat 2D characters in every video; no fak
 Sources: socialinsider.io (Reels statistics 2026, updated Nov 6), buffer.com (Reels length study, 2.7M reels, Nov 12 2026), socialmediatoday.com (Instagram Edits video tips, Aug 2026), creators.instagram.com (original content guidelines), tubefilter.com (aggregator penalty, Apr 2026), techcrunch.com (AI-generated profile label, Aug 2026), socialsamosa.com + metricool.com (skip rate & retention chart), zoomsphere.com (Mosseri Q&As Oct 2026, secondhand), metricool.com (Instagram news: series removal; 2026 Instagram study via newsletter, Jun 2026), thenextweb.com (content protection + AI-repost limits, Nov 17 2026), sproutsocial.com (algorithm 2026).
 
 ## 2. Video types that work for web devs / agencies
-- Before → after website transformation (best all-rounder)
-- "3 signs your website is…" lists (high saves)
-- Stat hook with a real source (e.g. Google: 53% of mobile visitors leave after 3 s)
-- (to test) POV: "you open a café's website on your phone…"
-- (to test) Myth vs fact ("You don't need a website, Instagram is enough" → why that's wrong)
-- (to test) Price/value breakdown ("what a $X website actually includes")
+Every format must start from an owner's problem a customer feels (a lost order/booking/call). Ranked by our own data (§6b) + research:
+1. **Customer-journey story** (our only < 50% skip so far): a scene + a loss → customer tries the site on the phone → fails → fixed site → succeeds. Use for ≥ 1 of 3 daily reels.
+2. **Before → after with a customer**: the bad site *as a customer uses it* → 3–4 named fixes → the action works. Never a bare build/showcase: "3 websites, 3 businesses" (82%) and the florist 4-step demo (74–77%) flopped.
+3. **"The most common mistake on [niche] websites"** (web-designer idea lists, 2026): one mistake, shown on a phone mockup, one fix. Only say "I checked 20 [niche] sites" if Mouad really did.
+4. **Website breakdown of an invented concept site**: 3 problems circled on the phone in 20–25 s, labelled "concept" (never a real business, never a fake client).
+5. **Myth vs fact with a real stat** — "Instagram is enough for my shop." → DreamHost 2026 Local Business Trust Index (1,201 US adults, surveyed Nov 2025): 39% have skipped visiting/buying from a business because it had no website; 58% check a business's website to confirm what they saw on social, Google or AI tools; 60% say an outdated-looking site hurts their trust. Show the source on screen ("Source: DreamHost survey, 2025").
+6. **Recurring named series** (repeatable formats beat one-off trends, ManyChat 2026): same title card style + number each time, e.g. "Website ER #4: the bakery that hid its menu". Series linking is gone (§1), so each episode must stand alone.
+7. **Price/value breakdown**: "What a website for a café actually includes" — each part tied to a customer action (menu, order button, map, reviews). Never "free".
+8. **Seasonal angle (late Nov–Dec)**: holiday rush scenes — "Christmas cake orders at 11 pm: can they order from your site?" Holiday/Black Friday formats are trending now (New Engen, Nov 13 2026); drop it after the holidays.
+Avoid: dance/choreo and trending-meme formats (wrong audience, can't do with our style), pure portfolio montages, tool/Figma process reels (other devs watch, owners don't).
+- **Reality check on clients:** web designer Marie Brown (Josh Hall podcast ep. 392, 2025) says few clients name Instagram as where they found her; the usual path is meet/hear of her → see her posts for months → hire. Reels build trust over time: keep one clear promise across all posts and ask every lead "how did you find me?" (§6).
+- **Reels = reach, carousels = depth** (Buffer, 4M+ posts): Reels got 1.36× the reach of carousels, but carousels earned ~2× engagement per person reached. Reels stay our engine; see §7 for a carousel test.
+Sources: dreamhost.com (2026 Local Business Trust Index), socialmon.ai (web-designer post ideas, May 2026), manychat.com (2026 creator trends: repeatable series), newengen.com (Instagram trends Nov 2026), joshhall.co (ep. 392 Marie Brown), buffer.com (best content format, Mar 2026).
 
 ## 3. Hooks
 Formula: call out the viewer + pain + visual change in the first second. Text on screen within 1 s (in frame 1 if possible).
@@ -82,7 +89,7 @@ Instagram's own 5-step editing advice (Aug 2026): hook in the first seconds and 
 - **Pacing — clarity over frantic cuts:** a visual change (cut, zoom, new element, highlight on the phone) about every 2–3 s and never > 3 s without one; don't cut every second just for speed. Emplifi found overall pacing had little effect on retention and slower pacing slightly *helped* 30-s retention (+8%). Speed up only at the hook and the re-hook.
 - **Cut on the beat:** land scene changes and caption pops on music beats; sound effect (whoosh, pop, ding, error buzz) on every visual beat, a distinct "fail" sound when the bad site breaks and a "success" sound at the payoff.
 - **Mid-reel dip fix:** retention usually sags in the middle → put the re-hook (§3b) there with a punch-zoom + big word + sound hit.
-- **Audio:** our own voice-over leads from 0:00; quiet music bed under it, total loudness ≈ -14 LUFS. Never reuse another creator's original audio over new visuals (Instagram is testing flags for AI videos that do this, Nov 2026).
+- **Audio:** our own voice-over leads from 0:00; quiet music bed under it, total loudness ≈ -14 LUFS. Business accounts may only use commercially licensed audio from Instagram's library — use our own music bed or the commercial library; check a trending sound is available to the account before using it (New Engen, Nov 2026). Never reuse another creator's original audio over new visuals (Instagram is testing flags for AI videos that do this, Nov 2026).
 - Progress bar at top (inside the top safe zone, thin). Export clean: no editor watermarks/end cards.
 - Optional Edits tools: beat markers (cut on beat), "First Draft" auto-trims pauses, Mac app with keyframes + auto-captions + 4K no-watermark export.
 Sources: socialmediatoday.com (Instagram's creator video editing tips, Aug 2026; Edits updates Jan 2026), emplifi.io (Facebook Reels data: person/text/pacing/vertical, Mar 2026), trymypost.com (Reels safe zones, 2026), metricool.com (Edits/Instagram news, Nov 2026), thenextweb.com (content protection + AI audio reuse, Nov 17 2026).
@@ -93,6 +100,8 @@ Sources: socialmediatoday.com (Instagram's creator video editing tips, Aug 2026;
 - Caption: first line repeats the hook, 3–5 niche hashtags, comment keyword "WEBSITE".
 - Reply to every comment fast (early engagement helps distribution); DM everyone who comments "WEBSITE".
 - Scheduling is safe (no reach penalty), so queue all 3 daily reels in advance.
+- Asking for a comment works: Metricool (24M posts, 2026) saw comment-asking CTAs roughly triple comments, while asking for likes slightly lowered likes → keep the "Comment WEBSITE" CTA, never "like this".
+- Ask every person who DMs or books "How did you find me?" and note it — that is the real client metric, not views (§2 reality check).
 
 ## 6b. Our numbers (Windsor, update weekly)
 - 2026-11-16 baseline: first reel (dentist "front desk", posted 00:00 UTC) after ~16 h: 20 views, 12 reach, ~50% skip rate, 5.8 s avg watch, 0 shares/saves. Too early to judge; goal for next reels: skip rate down, avg watch ≥ 50% of length, ≥1 share.
@@ -113,6 +122,13 @@ Sources: socialmediatoday.com (Instagram's creator video editing tips, Aug 2026;
   - Florist "doesn't need to be bad… just forgettable" + 4-step demo: **74.2%** skip, 3.8 s, reach 27 → abstract contrarian line + demo with no customer failed like the showcase. Confirms: open on a concrete scene with a loss.
   - Pizza story 35.2% / 11.4 s (stable); others unchanged (55–83%). Still 0 shares, 0 comments on all 7.
   - Our avg watch on non-pizza reels (3–7 s) is below Metricool's 8.5 s average; pizza (11.4 s) is above it. Track Instagram's new **share rate** metric per reel alongside skip rate.
+- 2026-11-20 (10 reels in Windsor; vet/plumber/hotel reels not synced yet; still 0 shares, 0 comments on all):
+  - Pilates "This one button decides if someone books your class" (curiosity, a UI element): **81.3%** skip, reach 14.
+  - Wedding "She's getting married in June. Tonight, she opens your website" (story setup, no loss shown): **72.7%**, 2.3 s, reach 11.
+  - Tattoo "Watch a tattoo studio website come alive: 7 layers" (build demo): 40% on only 10 views — too early, re-check after 72 h.
+  - Pizza story 35.2% / 11.4 s still the benchmark.
+  - **Reach warning:** posts from Nov 16–17 reached 92–126; posts from Nov 18–20 reach 3–28 so far. Partly too early (judge at 72 h), but if Nov 19 reels are still < 50 reach on Nov 22, treat it as the account's weak recent hooks pulling distribution down → next 6 reels: only formats #1–#2 of §2 (story with a visible loss).
+  - Lesson: a story *setup* without a visible loss in frame 1 behaves like an abstract hook. Frame 1 must show the bad outcome (empty shop, unanswered phone, "page not loading"), not only the person.
 
 ## 7. Ideas to test next
 - POV format, myth-vs-fact, "send this to your web designer" hooks, niches: gym, real estate, restaurant, auto repair, florist.
@@ -126,8 +142,14 @@ Sources: socialmediatoday.com (Instagram's creator video editing tips, Aug 2026;
 - Loop ending (last line flows into frame 1) vs. a hard stop after the CTA — compare avg watch time (can exceed 100% of length if people rewatch).
 - Story arc with a named customer moment ("She tried to book at 11 pm") vs. the same script told as a 3-point list — skip rate + avg watch.
 - "Website breakdown" format: a generic (unnamed, invented) local-business site, 3 problems circled on the phone mockup in 20–25 s; labelled "concept". Idea from web designer Blaze Smith, who got clients by breaking down well-known sites.
+- Myth-vs-fact reel with the DreamHost stat on screen ("39% skipped a business with no website") vs a story reel the same day — skip rate + shares (stats may be more sendable).
+- Named series ("Website ER #1, #2…"): run 5 episodes, same opening style; compare avg skip rate vs non-series reels that week.
+- Holiday-rush story reels (late Nov–Dec): 1 per day for a week vs evergreen stories.
+- (For Mouad, outside the reel task) 1 carousel per week that turns the best reel's 3 points into slides, for followers' saves (Buffer: carousels ~2× engagement per reach).
+- Hashtags: Metricool's 2026 study found posts with hashtags got ~31% fewer views (correlation only). Test 0 vs our 3–5 niche tags for a week; Saturday research to confirm.
 
 ## Changelog
+- 2026-11-20 (Fri, formats): §2 rebuilt — 8 formats ranked by our data + research (customer-journey story first; "most common mistake"; concept breakdown; myth-vs-fact with real DreamHost 2026 stats; named series; value breakdown; seasonal holiday angle) + formats to avoid, client-path reality check (Marie Brown), Reels-reach vs carousel-depth (Buffer); §5 commercial-audio rule for business accounts; §6 comment-CTA data (Metricool) + "how did you find me?"; §6b Nov 20 results (button curiosity 81%, wedding setup 73%) + reach-drop warning; 5 tests in §7.
 - 2026-11-19 (Thu, editing): §5 rebuilt — Instagram's official 5-step editing advice, character-in-first-3-s rule, full-frame 9:16, caption size/stroke spec, 1080×1920 safe zones, pacing changed from "cut every 1–2 s" to "visual change every 2–3 s, fast only at hook/re-hook" (Emplifi: pacing barely matters, slower helped 30-s retention), cut-on-beat + fail/success sounds, mid-reel dip fix, no reuse of others' audio; §1 content-protection tool + AI-repost reach limits (Nov 17), Metricool 8.5 s avg watch + judge after 72 h; §6b florist 74% skip (abstract hook confirmed weak), track share rate; 3 editing tests in §7.
 - 2026-11-18 (Wed, scripts & storytelling): §4 rebuilt — Hook→Bridge→Body→Payoff→CTA→loop, 3 body patterns (story arc beat sheet, numbered list, demo) with timings, voice-from-0:00 rule (Emplifi), bridge lines, loop-ending rule, plain-words list, owner self-check, value/offer mix; §1 length updated with Buffer 2.7M-reel study (never > 3:00; < 90 s length barely matters); §3 contrast hooks need a physical scene + loss; §6b 7-reel update (pizza story 34% skip; abstract contrast 78%, showcase 82%); 3 new tests in §7.
 - 2026-11-16: added §3b re-hooks (requested by Mouad); every video now also varies theme/layout/caption style/transition.
