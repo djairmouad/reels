@@ -9,18 +9,19 @@ Hard rules: no "free" offers; strictly flat 2D characters in every video; no fak
 - Hook decides everything: Instagram's own **skip rate** = % of views that leave before 3 s. Treat it as the #1 health metric for each reel.
 - **Retention chart** (per reel, in Insights): Instagram says the flatter the line, the more engaged the audience. Find the second where it drops and fix that beat in the next reels. Instagram's own example: a drop at ~4 s means the hook needs work.
 - Skip-rate benchmark: no official one. Socialinsider (9.8M organic reels, Jan–Jun 2026) averages ≈65% for 1–5K-follower accounts, ≈60% for 100K–1M. Our target: < 50%; anything > 60% = rewrite the hook type.
-- Length: reels up to 3 min are recommendable to non-followers; **never go over 3:00** (Buffer, 2.7M reels Jan–Aug 2026: 180 s+ reels got −49% reach vs the account's own baseline). Under 90 s every length bucket was within ~3% of baseline (Buffer) and Socialinsider saw only 5.6% vs 5.2% reach rate for 30–60 s vs < 30 s → length is not our lever, retention is. Keep 18–35 s while our avg watch is ~5–12 s; make a reel longer only when the story needs it (§7).
+- Length: reels up to 3 min are recommendable to non-followers; **never go over 3:00** (Buffer, 2.7M reels Jan–Aug 2026: 180 s+ reels got −49% reach vs the account's own baseline). Under 90 s every length bucket was within ~3% of baseline (Buffer) and Socialinsider saw only 5.6% vs 5.2% reach rate for 30–60 s vs < 30 s → length is not our lever, retention is. Current spec is 10–15 s (Mouad); our 2 winners held 7–11 s of watch, so short + complete is right. Go longer only as a one-off test.
 - **Originality (account-level, Apr 2026):** accounts that mostly post unoriginal content (reposts, reuploads, light edits) lose recommendations to non-followers; eligibility returns once most posts in a rolling 30 days are original. Borders, watermarks, speed changes or credits do not make a repost original. Our own animation + voice-over is original — never repost other creators' clips; share others' content to Stories only. Check Settings → Account Status if reach drops suddenly.
 - **Content protection (Nov 17, 2026, reported):** creators are getting a tool that finds copies of their Reels and lets them block the copy, add an "original by" label, or track it. If Mouad gets the activity-feed notification, enrol (covers every new reel). Instagram also says it is looking at limiting reach of accounts that keep AI-reposting others' work.
 - Benchmarks (Metricool 2026 Instagram study): average Reels watch time ≈ 8.5 s; ~65% of a reel's views come in its first 3 days → judge a reel after 72 h, not 16 h.
 - No other-app watermarks (CapCut/TikTok logos): content made in other apps is fine only without the watermark (Mosseri, Oct 2026).
 - AI: content is not demoted for being AI (Mosseri). The "AI-generated profile" label (Aug 2026) is only for accounts featuring AI-generated *people*; using AI for graphics/edits/captions doesn't need it. Our strictly flat 2D characters avoid this — never use realistic AI humans.
 - Scheduling posts does not hurt reach; deleting a post doesn't hurt other posts (Mosseri, Oct 2026).
-- Trial reels (shown to non-followers first; if the account has access): several per day is fine, but re-posting the *same* reel as a trial again and again will be cracked down on. A daily cap is being tested.
+- Trial reels (shown to non-followers first; if the account has access): several per day is fine, but re-posting the *same* reel as a trial again and again will be cracked down on. A daily cap is being tested. Reported to need ~1,000 followers (Metricool) → not available to us yet; A/B by alternating days instead (§7).
 - Reels "series" linking was removed (Oct 28, 2026): don't rely on linked Part 1/Part 2; every reel must stand alone.
 - Long video (Oct 26, 2026): Instagram is testing horizontal "Features" up to 90 min (Brazil + small US test) and "Clips as Reels" that link a short Reel to a long video; Mosseri says Reels stay core. Not for us yet: keep 9:16 reels ≤ 3:00.
+- **Meta Q3 2026 (Oct 21 earnings):** the Reels model now ranks *sequences* of Reels instead of each one alone, plus richer watch-time signals (+4% Reels time); ~45% of recommended Reels are < 1 day old (+11 pts vs Q2) → post every slot every day, never recycle old reels, and end on a loop so the viewer stays in the feed. No confirmed ranking change in Nov 2026 so far.
 - "Your Algorithm" lets viewers add/remove topics for their Reels feed: keep every reel clearly about one topic (websites for small businesses) in voice, on-screen text and caption keywords.
-Sources: techcrunch.com (90-min Features test, Oct 26 2026), socialinsider.io (Reels statistics 2026, updated Nov 6), buffer.com (Reels length study, 2.7M reels, Nov 12 2026), socialmediatoday.com (Instagram Edits video tips, Aug 2026), creators.instagram.com (original content guidelines), tubefilter.com (aggregator penalty, Apr 2026), techcrunch.com (AI-generated profile label, Aug 2026), socialsamosa.com + metricool.com (skip rate & retention chart), zoomsphere.com (Mosseri Q&As Oct 2026, secondhand), metricool.com (Instagram news: series removal; 2026 Instagram study via newsletter, Jun 2026), thenextweb.com (content protection + AI-repost limits, Nov 17 2026), sproutsocial.com (algorithm 2026).
+Sources: s21.q4cdn.com (Meta Q3 2026 prepared remarks), keywordseverywhere.com (change tracker, Nov 21 2026), techcrunch.com (90-min Features test, Oct 26 2026), socialinsider.io (Reels statistics 2026, updated Nov 6), buffer.com (Reels length study, 2.7M reels, Nov 12 2026), socialmediatoday.com (Instagram Edits video tips, Aug 2026), creators.instagram.com (original content guidelines), tubefilter.com (aggregator penalty, Apr 2026), techcrunch.com (AI-generated profile label, Aug 2026), socialsamosa.com + metricool.com (skip rate & retention chart), zoomsphere.com (Mosseri Q&As Oct 2026, secondhand), metricool.com (Instagram news: series removal; 2026 Instagram study via newsletter, Jun 2026), thenextweb.com (content protection + AI-repost limits, Nov 17 2026), sproutsocial.com (algorithm 2026).
 
 ## 2. Video types that work for web devs / agencies
 Every format must start from an owner's problem a customer feels (a lost order/booking/call). Ranked by our own data (§6b) + research:
@@ -32,7 +33,7 @@ Every format must start from an owner's problem a customer feels (a lost order/b
 6. **Recurring named series** (repeatable formats beat one-off trends, ManyChat 2026): same title card style + number each time, e.g. "Website ER #4: the bakery that hid its menu". Series linking is gone (§1), so each episode must stand alone.
 7. **Price/value breakdown**: "What a website for a café actually includes" — each part tied to a customer action (menu, order button, map, reviews). Never "free".
 8. **Seasonal angle (late Nov–Dec)**: holiday rush scenes — "Christmas cake orders at 11 pm: can they order from your site?" Holiday/Black Friday formats are trending now (New Engen, Nov 13 2026); drop it after the holidays.
-Avoid: dance/choreo and trending-meme formats, "guess the business" quizzes (vet: 77% skip, reach 13) and build-layer demos ("website comes alive": 77%, reach 31) (wrong audience, can't do with our style), pure portfolio montages, tool/Figma process reels (other devs watch, owners don't).
+Avoid: dance/choreo and trending-meme formats, "guess the business" quizzes (vet: 82% skip), build-layer demos ("website comes alive": 73%), price quizzes ("$500 vs $5,000 website": 86%) and UI close-ups ("this one button": 86%) (wrong audience, can't do with our style), pure portfolio montages, tool/Figma process reels (other devs watch, owners don't).
 - **Reality check on clients:** web designer Marie Brown (Josh Hall podcast ep. 392, 2025) says few clients name Instagram as where they found her; the usual path is meet/hear of her → see her posts for months → hire. Reels build trust over time: keep one clear promise across all posts and ask every lead "how did you find me?" (§6).
 - **Reels = reach, carousels = depth** (Buffer, 4M+ posts): Reels got 1.36× the reach of carousels, but carousels earned ~2× engagement per person reached. Socialinsider (21.3M brand posts, Oct 2025–Mar 2026): Reels lead on shares (0.10% of followers vs 0.08% carousels) and comments; carousels lead on saves. Reels stay our engine; see §7 for a carousel test.
 Sources: dreamhost.com (2026 Local Business Trust Index), brightlocal.com via news.designrush.com (2026 consumer review survey: website after good review, Nov 18; AI discovery, Sep 7), socialinsider.io (engagement report, updated Nov 3 2026), socialmon.ai (web-designer post ideas, May 2026), manychat.com (2026 creator trends: repeatable series), newengen.com (Instagram trends Nov 2026), joshhall.co (ep. 392 Marie Brown), buffer.com (best content format, Mar 2026).
@@ -47,7 +48,7 @@ Formula: call out the viewer + pain + visual change in the first second. Text on
   - **Urgent night scene + two businesses** (plumber 46% skip, §6b): "Eleven PM. A pipe just burst. Two plumbers, only one got the call." · "Locked out at midnight. Two locksmiths. One site has a call button." · "Saturday, 8 AM. A cracked tooth. Two dentists, one gets the booking."
   - **Review → website gap** (BrightLocal stat, §2): "She read your 5-star reviews. Then she opened your website."
   - **Contrast / side-by-side** (our best so far, §6b — but only when it shows a *physical scene + a loss*: full vs empty shop; "One website wins every round" was abstract and got 78% skip): "Same street. Same pizza. One is full, one is empty." · "Two bakeries. Same prices. Only one gets orders at night." · "Two salons on one street. One phone keeps ringing."
-  - **Numbered list:** "3 signs your website is costing you clients." · "3 things every café website needs. Most have zero." (as a bare opener it flopped: hotel 79% skip, §6b — open on a scene + loss, then "3 things fixed it")
+  - **Numbered list:** "3 signs your website is costing you clients." · "3 things every café website needs. Most have zero." (as a bare opener it flopped: hotel 83% skip, §6b — open on a scene + loss, then "3 things fixed it")
   - **Mid-action story:** "She wanted to order a cake. The website kept loading." · "He tried to book a table at 11 pm. Nobody answered."
   - **Direct callout:** "Dentists: your website is losing patients while you sleep." · "Owners of [niche]: send this to whoever made your website." (built for DM sends)
   - **Curiosity:** "The thing no one tells restaurant owners about their website." · "This one button decides if a customer calls you."
@@ -63,14 +64,14 @@ A re-hook is a second hook placed where viewers typically swipe (≈35–60% of 
 - Pair it with a visual pattern interrupt (punch zoom, big word, sound hit) so it works muted too.
 - Rotate lines; never repeat the same re-hook in consecutive videos. Research task: add new proven re-hook lines here.
 
-## 4. Script structure (18–35 s)
+## 4. Script structure (10–15 s)
 Every reel = **Hook → Bridge → Body → Payoff → CTA (≤ 2 s) → loop**. Pick ONE body pattern per reel and rotate across the day's 3 reels:
 - **A. Story arc (customer journey)** — our best performer so far (pizza, §6b). Beats:
   0–2 s hook = a concrete scene + a loss ("Same street. Same pizza. One is full, one is empty.") →
-  2–4 s bridge ("Here's what the customer saw.") → 4–12 s conflict: one customer tries to order/book/call, 2 things fail on the phone mockup →
-  ~45% re-hook (§3b) → 12–20 s turn: same customer, same phone, the fixed site → 20–26 s payoff: the action succeeds on screen (order placed, table booked) → CTA → last line points back to the opening scene.
+  2–3 s bridge ("Here's what she saw.") → 3–7 s conflict: the customer tries to order/book/call, 2 things fail on the phone mockup →
+  ~6 s re-hook (§3b) → 7–11 s turn: same customer, the rival's site works → 11–13 s payoff: the action succeeds on screen (order placed, call answered) → 13–15 s CTA + last line pointing back to the opening scene.
 - **B. Numbered list** — "3 signs…": number on screen for each point ("2/3"), one problem + one fix per point, save the strongest for last and say so ("Number 3 costs the most").
-- **C. Demo / before → after** — bad site → 3–4 quick fixes, each named in ≤ 4 words → finished site. Always tie it to a customer's problem first; a showcase with no problem flopped (82% skip, §6b). Label redesigns "concept" — never imply a real client.
+- **C. Demo / before → after** — bad site → 3–4 quick fixes, each named in ≤ 4 words → finished site. Always tie it to a customer's problem first; a showcase with no problem flopped (83% skip, §6b). Label redesigns "concept" — never imply a real client.
 Rules:
 - **Voice from the first second**: the spoken hook starts at 0:00, no music-only intro (Emplifi, 10,110 Facebook Reels, Mar 2026: speech in the first 3 s gave ~25% higher 10-s retention vs music only; Facebook data, but our reels are voice-led anyway).
 - **Bridge line** (1 short sentence) between hook and body so the hook's promise flows into proof: "Here's what she saw." · "Watch what happens next." · "Here's why." · "Look at the phone."
@@ -99,7 +100,7 @@ Sources: socialmediatoday.com (Instagram's creator video editing tips, Aug 2026;
 
 ## 6. Posting & growth
 - Consistency beats volume; 3 reels/day is our cadence. Scheduling is safe (no reach penalty), so queue all 3 in advance.
-- **Slots:** keep 13:00, 17:00, 00:00 UTC (= 14:00, 18:00, 01:00 Lagos; 00:00 UTC = 7 PM US Eastern). Our 13 reels show no slot effect: each slot has both ~100-reach and ~15-reach reels, so the hook decides reach, not the hour. Big studies disagree (Metricool 24M posts, 2026: evenings 6–9 PM viewer's local time, dead zone 2–5 AM; Later 975K Reels, 2024 data: around midnight–5 AM by engagement) → don't chase "best times"; re-check by slot monthly once each slot has 20+ reels.
+- **Slots:** keep 13:00, 17:00, 00:00 UTC (= 14:00, 18:00, 01:00 Lagos; 00:00 UTC = 7 PM US Eastern). Our 14 reels show no slot effect: each slot has both ~100-reach and ~15-reach reels, so the hook decides reach, not the hour. Big studies disagree (Metricool 24M posts, 2026: evenings 6–9 PM viewer's local time, dead zone 2–5 AM; Later 975K Reels, 2024 data: around midnight–5 AM by engagement) → don't chase "best times"; re-check by slot monthly once each slot has 20+ reels.
 - **Caption template (every reel):**
   1. Line 1 = the hook in plain words + the niche keyword a person would search ("plumber website", "bakery website", "booking button") — Instagram search ranks on caption text, and captions are what is searchable (hashtags/keywords in comments don't count). Spoken words and on-screen text are also read, so say the niche word in the voice-over and show it on screen in the first 3 s.
   2. 1–2 short lines with the problem → fix (no hard sell).
@@ -114,68 +115,59 @@ Sources: socialmediatoday.com (Instagram's creator video editing tips, Aug 2026;
   3. DM 2 (show you looked): 1–2 specific things you'd change on *their* site, in plain words (same language as the reels).
   4. DM 3 (next step): offer a short call or a written quote with a price range — paid work only, never "free".
   5. Follow up once after 3 days, once after 2 weeks, then stop. Log every lead + "How did you find me?" (§2 reality check).
-- Asking for a comment works: Metricool (24M posts, 2026) saw comment-asking CTAs roughly triple comments, while asking for likes slightly lowered likes. Our 13 reels: still **0 comments** on all → reach (12–126) is too low for comments yet; keep the CTA, fix reach via hooks first.
+- Asking for a comment works: Metricool (24M posts, 2026) saw comment-asking CTAs roughly triple comments, while asking for likes slightly lowered likes. Our 14 reels: still **0 comments** on all → reach (12–126) is too low for comments yet; keep the CTA, fix reach via hooks first.
 - (For Mouad) Share each day's best reel to Stories with a question sticker ("What does your website need most?") — story replies open DMs without needing a comment.
 Sources: socialmediatoday.com (Instagram 5-hashtag limit, Dec 18 2025; Mosseri on hashtags), metricool.com (best times study, Jun 2026; Instagram SEO + hashtags −32% views, Aug 2026; DM marketing funnel, Oct 2026), later.com (best time to post, Apr 2026), socialinsider.io (caption length benchmarks, Oct 28 2026), hootsuite.com (Instagram SEO: search ranking factors, Oct 2026), buffer.com (replying to comments, Nov 2025), socialmediaexaminer.com (DM automation model).
 
-## 6b. Our numbers (Windsor, update weekly)
-- 2026-11-16 baseline: first reel (dentist "front desk", posted 00:00 UTC) after ~16 h: 20 views, 12 reach, ~50% skip rate, 5.8 s avg watch, 0 shares/saves. Too early to judge; goal for next reels: skip rate down, avg watch ≥ 50% of length, ≥1 share.
-- 2026-11-17 (first 4 reels, 96–118 reach each, 0 shares, 0 comments). Skip rate by hook type:
-  - Contrast "Same street. Same pizza. One full, one empty" (pizza): **26.5%** skip, 12.9 s avg watch ← clear winner, repeat the type.
-  - Mid-action story "One text. One lost customer" (bakery): 54.1%, 7.4 s.
-  - What-if metaphor "What if your website was an employee?": 58.8%, 7.1 s.
-  - Metaphor "Your website is your front desk" (dentist): 62.7%, 5.1 s.
-  - Lesson so far: a concrete visual contrast the eye gets instantly beats an abstract metaphor. Still a tiny sample: confirm over the next 10 reels. Shares still 0 → strengthen the "send this to…" line.
-- 2026-11-18 (7 reels, 53–125 reach each, still 0 shares/comments; skip rate as of today):
-  - Pizza street (story arc A) **33.9%**, 11.6 s avg watch — still the only reel under 50%.
-  - Bakery story 55.7% · employee metaphor 57.8% · dentist front desk 61.7%.
-  - Restaurant "Same food. Same prices. One website wins every round" (contrast, abstract) **77.6%**, 4.9 s, reach 53.
-  - Showcase "3 websites, 3 businesses" (no problem, no person) **82.1%**, 3.1 s — worst: don't post pure showcases.
-  - Florist "doesn't need to be bad… just forgettable" (posted today): too early.
-  - Lesson: what won is a *scene + loss + story* (street, empty shop, customer chooses), not the contrast word itself. Default the story-arc pattern (§4 A) for at least 1 of the 3 daily reels.
-- 2026-11-19 (Windsor still shows only the 7 reels posted up to Nov 18 00:00 UTC; later posts not synced yet):
-  - Florist "doesn't need to be bad… just forgettable" + 4-step demo: **74.2%** skip, 3.8 s, reach 27 → abstract contrarian line + demo with no customer failed like the showcase. Confirms: open on a concrete scene with a loss.
-  - Pizza story 35.2% / 11.4 s (stable); others unchanged (55–83%). Still 0 shares, 0 comments on all 7.
-  - Our avg watch on non-pizza reels (3–7 s) is below Metricool's 8.5 s average; pizza (11.4 s) is above it. Track Instagram's new **share rate** metric per reel alongside skip rate.
-- 2026-11-20 (10 reels in Windsor; vet/plumber/hotel reels not synced yet; still 0 shares, 0 comments on all):
-  - Pilates "This one button decides if someone books your class" (curiosity, a UI element): **81.3%** skip, reach 14.
-  - Wedding "She's getting married in June. Tonight, she opens your website" (story setup, no loss shown): **72.7%**, 2.3 s, reach 11.
-  - Tattoo "Watch a tattoo studio website come alive: 7 layers" (build demo): 40% on only 10 views — too early, re-check after 72 h.
-  - Pizza story 35.2% / 11.4 s still the benchmark.
-  - **Reach warning:** posts from Nov 16–17 reached 92–126; posts from Nov 18–20 reach 3–28 so far. Partly too early (judge at 72 h), but if Nov 19 reels are still < 50 reach on Nov 22, treat it as the account's weak recent hooks pulling distribution down → next 6 reels: only formats #1–#2 of §2 (story with a visible loss).
-  - Lesson: a story *setup* without a visible loss in frame 1 behaves like an abstract hook. Frame 1 must show the bad outcome (empty shop, unanswered phone, "page not loading"), not only the person.
+## 6b. Scoreboard (Windsor, last 30 days — updated 2026-11-22)
+Ranked by skip rate (lower = better). Skip = % leaving before 3 s; watch = avg watch time. Judge after 72 h (Nov 22 reel is < 1 day old).
+| # | Reel (posted UTC) | Skip | Watch | Reach | First second (per hook + caption) |
+|---|---|---|---|---|---|
+| 1 | Pizza street (Nov 17 00:00) | **36%** | **11.2 s** | 126 | Two pizzerias on one street: one full, one empty |
+| 2 | Plumber 11 PM (Nov 20 17:00) | **46%** | 7.2 s | 106 | Night, pipe burst in a kitchen, she grabs her phone — two plumbers |
+| 3 | Bakery "One text. One lost customer" (Nov 16 17:00) | 56% | 7.1 s | 114 | Customer texting; cake site stuck loading |
+| 4 | "What if your website was an employee?" (Nov 16 13:00) | 58% | 7.1 s | 126 | Metaphor: sleepy employee, no customer loss yet |
+| 5 | Dentist "front desk" (Nov 16 00:00) | 62% | 5.6 s | 114 | Metaphor: clinic front desk |
+| 6 | Tattoo "website comes alive: 7 layers" (Nov 20 00:00) | 73% | 3.4 s | 37 | Empty canvas starting a build animation |
+| 7 | Restaurant "One website wins every round" (Nov 17 17:00) | 78% | 5.2 s | 92 | Two sites side by side, abstract "round 1" |
+| 8 | Florist "just forgettable" (Nov 18 00:00) | 78% | 3.4 s | 28 | Plain florist site + contrarian line |
+| 9 | Wedding "getting married in June" (Nov 19 17:00) | 81% | 1.9 s | 15 | Bride on sofa opening a phone — no loss shown |
+| 10 | Vet "guess the business" (Nov 20 13:00) | 82% | 2.9 s | 22 | Quiz clue 1 on a blank site |
+| 11 | Hotel "3 things every hotel website needs" (Nov 21 00:00) | 83% | 2.7 s | 58 | List title card "1/3" |
+| 12 | "3 websites, 3 businesses" (Nov 17 13:00) | 83% | 3.0 s | 115 | Showcase of 3 finished sites |
+| 13 | Garage "$500 vs $5,000 website" (Nov 22 00:00, early) | 86% | 2.0 s | 14 | Two site mockups + price labels, quiz question |
+| 14 | Pilates "This one button" (Nov 19 13:00) | 86% | 4.0 s | 26 | Close-up of a booking button |
+Totals (14 reels): reach 993, **0 shares, 0 comments, 1 save**. Median skip 79%. Socialinsider small-account average ≈ 65%.
+**Wins:** a physical scene + a visible loss + "two businesses, one customer, only one wins" (#1, #2). The viewer sees someone losing something in frame 1.
+**Middle:** mid-action story or metaphor without a rival (#3–5, 56–62%).
+**Loses (72–86%), stop making them:** website showcases, build-up/layer animations, guess-the-business quizzes, "3 things" list openers, price-comparison quizzes ($500 vs $5,000), UI close-ups, story setups with no loss, abstract contrasts.
+**Reach note:** the first 6 reels (Nov 16–17) all got 92–126 reach whatever the hook (new-account test traffic). Since Nov 18 only the scene+loss reel (#2) passed 60 → reach is now earned reel by reel, through skip rate.
+**Posting gap:** Windsor has no reel for 5 of the week's 21 slots (Nov 18 13:00 + 17:00, Nov 19 00:00, Nov 21 13:00 + 17:00). Check that the video task posted them; daily freshness matters (§1).
 
-- 2026-11-20 evening (12 reels in Windsor; hotel reel not synced; still 0 shares, 0 comments):
-  - Plumber "Eleven PM. A pipe just burst… only one got the call" (urgent scene + two businesses + loss): **46.2%** skip, **reach 101 within ~2 h** — 2nd reel ever under 50%, same pattern as pizza (35.7%).
-  - Vet "Guess the business from its website" (quiz): 76.9%, reach 13. Tattoo "website comes alive: 7 layers" (build demo): now 76.5%, reach 31 (the early 40% didn't hold).
-  - **Reach drop explained:** it follows the hook, not an account penalty — the scene+loss reel reached ~100 the same day weaker hooks reached 13–31. Rule: 2 of 3 daily reels = format #1 (§2); the 3rd tests a new type with frame 1 showing a loss.
-- 2026-11-21 (13 reels in Windsor; Nov 21 13:00/17:00 reels not synced; still 0 shares, 0 comments on all 13):
-  - Hotel "Three things every hotel website needs. Most have none" (numbered list, no scene): **78.9%** skip, 2.2 s, reach 18 (~1 day) → first numbered-list result is weak; numbered list only *inside* a story, not as the opening.
-  - Plumber now 45.5% / 7.3 s / reach 104 — holds. Pizza 36.2% / 11.2 s.
-  - By slot (13:00 / 17:00 / 00:00 UTC): every slot has ~100-reach and ~15-reach reels → no time-of-day effect at our size (§6).
-  - Of 13 reels, only the 2 scene+loss stories are < 50% skip; the other 11 are 56–86%.
+## 6c. Week 1 review (Nov 16–22)
+- 1 format clearly beats the rest (scene + loss + rival). 2 data points only → next week replicates it across niches before we call it a rule.
+- Shares are the gap: 0 in 14 reels, and sends are the top signal for non-follower reach (§1). Next week tests a spoken send line.
+- Comments 0 → no leads yet. Reach per reel (14–126) is still too low for comment CTAs to fire; hooks first.
 
-## 7. Ideas to test next
-- POV format, myth-vs-fact, "send this to your web designer" hooks, niches: gym, real estate, restaurant, auto repair, florist.
-- A/B two hooks for the same script via trial reels (if available): different first 3 s, compare skip rate.
-- Frame 1 = phone mockup alone vs. phone + reacting 2D character in the same frame (Emplifi: person in first 3 s helped 10-s retention) — compare skip rate.
-- Calm pacing (visual change every ~2.5 s, fast only at hook/re-hook) vs. a change every ~1 s, same script — compare avg watch time.
-- Cut-on-beat edit (scene changes on music beats) vs. cuts placed only on voice lines — compare avg watch.
-- Contrast hook in new niches (2 shops/2 phones split-screen: gym, barber, florist) to check the pizza result wasn't a fluke.
-- Numbered-list hook as on-screen text ("3 things every [niche] website needs") vs. contrast hook — skip rate + saves.
-- One 30–45 s story reel per day vs. 15–25 s — compare reach and avg watch %.
-- Loop ending (last line flows into frame 1) vs. a hard stop after the CTA — compare avg watch time (can exceed 100% of length if people rewatch).
-- Story arc with a named customer moment ("She tried to book at 11 pm") vs. the same script told as a 3-point list — skip rate + avg watch.
-- "Website breakdown" format: a generic (unnamed, invented) local-business site, 3 problems circled on the phone mockup in 20–25 s; labelled "concept". Idea from web designer Blaze Smith, who got clients by breaking down well-known sites.
-- Myth-vs-fact reel with the DreamHost stat on screen ("39% skipped a business with no website") vs a story reel the same day — skip rate + shares (stats may be more sendable).
-- Named series ("Website ER #1, #2…"): run 5 episodes, same opening style; compare avg skip rate vs non-series reels that week.
-- Holiday-rush story reels (late Nov–Dec): 1 per day for a week vs evergreen stories.
-- (For Mouad, outside the reel task) 1 carousel per week that turns the best reel's 3 points into slides, for followers' saves (Buffer: carousels ~2× engagement per reach).
-- Hashtags: Metricool's 2026 study: posts relying on hashtags got ~32% fewer views and 34% fewer interactions (correlation only); Mosseri says they don't add reach. Test 2 niche tags vs our usual 4–5 for one week (same slots, story-format reels) — compare reach.
-- Caption length: 30–60-word captions (template §6) vs our recent < 30-word ones — compare shares/comments over 10 reels.
-- Send-line placement: "Send this to a [niche] owner" spoken in the reel's last 2 s vs only in the caption — compare shares.
+## 7. Experiments
+**Next week (Nov 23–29) — run these 3, log results in §6b:**
+1. **Replicate the winner in 6 new niches.** 2 of the 3 daily reels = format #1 (§2): urgent moment + two businesses + only one wins. Niches: locksmith ("Locked out at midnight. Two locksmiths. Only one picked up."), dentist ("Saturday, 8 AM. A cracked tooth. Two dentists, one gets the booking."), bakery ("Christmas cake, ordered at 11 PM. Two bakeries. Only one takes orders at night."), auto repair ("Flat tyre on Monday morning. Two garages. One shows a price on its site."), salon ("Two salons on one street. One phone keeps ringing."), vet ("Her dog is sick on Sunday. Two vets. Only one shows opening hours."). Pass = ≥ 5 of these 12 reels under 50% skip. Fail = the pizza/plumber results were the niche, not the format.
+2. **Spoken send line for shares.** In the format-#1 reels: Mon/Wed/Fri say in the last 2 s "Send this to a [niche] owner who still misses these calls." (also on screen); Tue/Thu/Sat keep it in the caption only. Compare shares + share rate per reel. Pass = any send-line reel gets ≥ 2 shares.
+3. **3rd daily reel: one new hook type, loss visible in frame 1.** Rotate: review→website gap ("She read your 5-star reviews. Then she opened your website." + "Source: BrightLocal, 2026"), AI→website gap ("ChatGPT sent her to you. Your website sent her away."), myth-vs-fact with the DreamHost 2026 stat (39% skipped a business with no website). Frame 1 must already show the customer leaving. Compare skip rate to that week's format-#1 median.
+Rules for the week: change one thing at a time; same 3 slots; keep 10–15 s; judge each reel at 72 h.
+**Backlog (later):**
+- Frame 1 = phone alone vs phone + reacting 2D character (Emplifi: a person in the first 3 s helped retention).
+- Loop ending (last line flows into frame 1) vs hard stop — avg watch time (Meta now ranks *sequences* of Reels, so keep viewers in the flow).
+- Named series ("Website ER #1…"), 5 episodes, vs non-series reels.
+- Hashtags: 2 niche tags vs 4–5 for one week (Metricool 2026: hashtag-heavy posts ~32% fewer views, correlation only).
+- Caption 30–60 words vs < 30 words — shares/comments over 10 reels.
+- "Website breakdown" of an invented concept site (3 problems circled, labelled "concept").
+- (For Mouad) 1 carousel per week from the best reel's points (Buffer: carousels ~2× engagement per reach).
+- Trial reels A/B: only once the account has access (Metricool: needs ~1,000 followers); until then A/B by alternating days as above.
+Sources: s21.q4cdn.com (Meta Q3 2026 prepared remarks: sequence ranking, 45% of recommended Reels < 1 day old, Oct 21 2026), socialmediatoday.com (Meta platform growth, Oct 22 2026), metricool.com (trial reels guide, Jul 2026), later.com (trial reels: 1–2 tests a week, Mar 2026), truefuturemedia.com (skip rate: change one opening element, benchmark vs last 10–20 reels, Jul 2026), keywordseverywhere.com (algorithm change tracker: no confirmed ranking change, checked Nov 21 2026).
 
 ## Changelog
+- 2026-11-22 (Sun, week review): §6b replaced by a ranked **Scoreboard** of all 14 reels (skip, watch, reach, first second) + win/lose verdict (scene+loss+rival wins at 36–46%; showcases, builds, quizzes, lists, price quizzes lose at 72–86%); 0 shares in 14 reels; 5 missing slots flagged; §6c week review; §7 rebuilt as 3 experiments for Nov 23–29 (winner in 6 new niches, spoken send line, new loss-first hook types) + backlog; §1 Meta Q3 2026 sequence ranking + 45% of recommended Reels < 1 day old, trial reels need ~1K followers; §4 timings set to the 10–15 s spec; old daily logs condensed.
 - 2026-11-21 (Sat, captions/hashtags/timing/DMs): §6 rebuilt — 5-part caption template (keyword-first line 1, send line, CTA, max 5 specific hashtags per Instagram's Dec 2025 cap + Mosseri "hashtags don't add reach"), 30–60-word captions (Socialinsider 28.6M posts), slots kept (our data: no slot effect; Metricool vs Later best-time studies conflict), first-hour replies (Buffer +21%), 5-step comment→DM→paid-quote flow, Story question-sticker idea; §6b Nov 21 (hotel numbered-list 79% skip); §7 hashtag stat corrected to 32%/34% + 2 caption tests.
 - 2026-11-20 (Fri, 2nd run): plumber reel (urgent night scene, 46% skip, reach 101 in 2 h) confirms story-with-loss → §2 format #1 now 2 of 3 daily reels; quizzes + build-layer demos added to Avoid; BrightLocal 2026 stats (54% visit site after good review; AI tools 45% of local recommendations) + 2 hook types in §3; Socialinsider shares data; §1 90-min "Features" test (no change for us); §6b evening update + reach-drop diagnosis.
 - 2026-11-20 (Fri, formats): §2 rebuilt — 8 formats ranked by our data + research (customer-journey story first; "most common mistake"; concept breakdown; myth-vs-fact with real DreamHost 2026 stats; named series; value breakdown; seasonal holiday angle) + formats to avoid, client-path reality check (Marie Brown), Reels-reach vs carousel-depth (Buffer); §5 commercial-audio rule for business accounts; §6 comment-CTA data (Metricool) + "how did you find me?"; §6b Nov 20 results (button curiosity 81%, wedding setup 73%) + reach-drop warning; 5 tests in §7.
