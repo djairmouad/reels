@@ -142,7 +142,7 @@ Totals (14 reels): reach 993, **0 shares, 0 comments, 1 save**. Median skip 79%.
 **Middle:** mid-action story or metaphor without a rival (#3–5, 56–62%).
 **Loses (72–86%), stop making them:** website showcases, build-up/layer animations, guess-the-business quizzes, "3 things" list openers, price-comparison quizzes ($500 vs $5,000), UI close-ups, story setups with no loss, abstract contrasts.
 **Reach note:** the first 6 reels (Nov 16–17) all got 92–126 reach whatever the hook (new-account test traffic). Since Nov 18 only the scene+loss reel (#2) passed 60 → reach is now earned reel by reel, through skip rate.
-**Posting gap:** Windsor has no reel for 5 of the week's 21 slots (Nov 18 13:00 + 17:00, Nov 19 00:00, Nov 21 13:00 + 17:00). Check that the video task posted them; daily freshness matters (§1).
+**Posting gap:** Windsor has no reel for 5 of the 19 slots so far this week (Nov 18 13:00 + 17:00, Nov 19 00:00, Nov 21 13:00 + 17:00). Check that the video task posted them; daily freshness matters (§1).
 
 ## 6c. Week 1 review (Nov 16–22)
 - 1 format clearly beats the rest (scene + loss + rival). 2 data points only → next week replicates it across niches before we call it a rule.
