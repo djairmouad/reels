@@ -19,9 +19,11 @@ Hard rules: no "free" offers; strictly flat 2D characters in every video; no fak
 - Trial reels (shown to non-followers first; if the account has access): several per day is fine, but re-posting the *same* reel as a trial again and again will be cracked down on. A daily cap is being tested. Reported to need ~1,000 followers (Metricool) → not available to us yet; A/B by alternating days instead (§7).
 - Reels "series" linking was removed (Oct 28, 2026): don't rely on linked Part 1/Part 2; every reel must stand alone.
 - Long video (Oct 26, 2026): Instagram is testing horizontal "Features" up to 90 min (Brazil + small US test) and "Clips as Reels" that link a short Reel to a long video; Mosseri says Reels stay core. Not for us yet: keep 9:16 reels ≤ 3:00.
-- **Meta Q3 2026 (Oct 21 earnings):** the Reels model now ranks *sequences* of Reels instead of each one alone, plus richer watch-time signals (+4% Reels time); ~45% of recommended Reels are < 1 day old (+11 pts vs Q2) → post every slot every day, never recycle old reels, and end on a loop so the viewer stays in the feed. No confirmed ranking change in Nov 2026 so far.
+- **Meta Q3 2026 (Oct 21 earnings):** the Reels model now ranks *sequences* of Reels instead of each one alone, plus richer watch-time signals (+4% Reels time); ~45% of recommended Reels are < 1 day old (+11 pts vs Q2) → post every slot every day, never recycle old reels, and end on a loop so the viewer stays in the feed.
+- **Nov 2026 check (Nov 23): still no confirmed Reels ranking change.** Reported only (no Meta statement found): fewer "inappropriate/low-quality" posts in Explore/Reels/Feed recommendations (Nov 18, India-led) — no effect on clean business reels. "Series" hub with a "Watch Next" button spotted in limited test (not official) → keep every reel standalone. Carousels with music reportedly now show in the Reels tab → our carousel test (§7) should carry a music bed.
+- **Write for strangers:** Dash Social says non-followers were ~49% of Instagram views by end 2025 (30% in 2024; sample not stated); for us it is ~100%. Every reel must make sense to someone who never saw the account: no "as I said yesterday", no inside references.
 - "Your Algorithm" lets viewers add/remove topics for their Reels feed: keep every reel clearly about one topic (websites for small businesses) in voice, on-screen text and caption keywords.
-Sources: s21.q4cdn.com (Meta Q3 2026 prepared remarks), keywordseverywhere.com (change tracker, Nov 21 2026), techcrunch.com (90-min Features test, Oct 26 2026), socialinsider.io (Reels statistics 2026, updated Nov 6), buffer.com (Reels length study, 2.7M reels, Nov 12 2026), socialmediatoday.com (Instagram Edits video tips, Aug 2026), creators.instagram.com (original content guidelines), tubefilter.com (aggregator penalty, Apr 2026), techcrunch.com (AI-generated profile label, Aug 2026), socialsamosa.com + metricool.com (skip rate & retention chart), zoomsphere.com (Mosseri Q&As Oct 2026, secondhand), metricool.com (Instagram news: series removal; 2026 Instagram study via newsletter, Jun 2026), thenextweb.com (content protection + AI-repost limits, Nov 17 2026), sproutsocial.com (algorithm 2026).
+Sources: s21.q4cdn.com (Meta Q3 2026 prepared remarks), keywordseverywhere.com (change tracker, Nov 21 2026), english.dainikjagranmpcg.com (recommendation curbs, Nov 18 2026, reported), metricool.com + socialbee.com (Instagram news logs: Series test, music carousels in Reels tab, Nov 2026), dashsocial.com (non-follower share of views), techcrunch.com (90-min Features test, Oct 26 2026), socialinsider.io (Reels statistics 2026, updated Nov 6), buffer.com (Reels length study, 2.7M reels, Nov 12 2026), socialmediatoday.com (Instagram Edits video tips, Aug 2026), creators.instagram.com (original content guidelines), tubefilter.com (aggregator penalty, Apr 2026), techcrunch.com (AI-generated profile label, Aug 2026), socialsamosa.com + metricool.com (skip rate & retention chart), zoomsphere.com (Mosseri Q&As Oct 2026, secondhand), metricool.com (Instagram news: series removal; 2026 Instagram study via newsletter, Jun 2026), thenextweb.com (content protection + AI-repost limits, Nov 17 2026), sproutsocial.com (algorithm 2026).
 
 ## 2. Video types that work for web devs / agencies
 Every format must start from an owner's problem a customer feels (a lost order/booking/call). Ranked by our own data (§6b) + research:
@@ -33,7 +35,8 @@ Every format must start from an owner's problem a customer feels (a lost order/b
 6. **Recurring named series** (repeatable formats beat one-off trends, ManyChat 2026): same title card style + number each time, e.g. "Website ER #4: the bakery that hid its menu". Series linking is gone (§1), so each episode must stand alone.
 7. **Price/value breakdown**: "What a website for a café actually includes" — each part tied to a customer action (menu, order button, map, reviews). Never "free".
 8. **Seasonal angle (late Nov–Dec)**: holiday rush scenes — "Christmas cake orders at 11 pm: can they order from your site?" Holiday/Black Friday formats are trending now (New Engen, Nov 13 2026); drop it after the holidays.
-Avoid: dance/choreo and trending-meme formats, "guess the business" quizzes (vet: 82% skip), build-layer demos ("website comes alive": 73%), price quizzes ("$500 vs $5,000 website": 86%) and UI close-ups ("this one button": 86%) (wrong audience, can't do with our style), pure portfolio montages, tool/Figma process reels (other devs watch, owners don't).
+Middle (usable as the 3rd reel, not the main format): **price contrast with a rival + a loss** — "$500 vs $5,000 website" (same garage, one makes customers wait 3–5 days) read 86% skip on day 1 but settled at 66% / 6.6 s / reach 104 after 72 h.
+Avoid: dance/choreo and trending-meme formats, "guess the business" quizzes (vet: 82% skip), build-layer demos ("website comes alive": 73%) and UI close-ups ("this one button": 86%) (wrong audience, can't do with our style), pure portfolio montages, tool/Figma process reels (other devs watch, owners don't).
 - **Reality check on clients:** web designer Marie Brown (Josh Hall podcast ep. 392, 2025) says few clients name Instagram as where they found her; the usual path is meet/hear of her → see her posts for months → hire. Reels build trust over time: keep one clear promise across all posts and ask every lead "how did you find me?" (§6).
 - **Reels = reach, carousels = depth** (Buffer, 4M+ posts): Reels got 1.36× the reach of carousels, but carousels earned ~2× engagement per person reached. Socialinsider (21.3M brand posts, Oct 2025–Mar 2026): Reels lead on shares (0.10% of followers vs 0.08% carousels) and comments; carousels lead on saves. Reels stay our engine; see §7 for a carousel test.
 Sources: dreamhost.com (2026 Local Business Trust Index), brightlocal.com via news.designrush.com (2026 consumer review survey: website after good review, Nov 18; AI discovery, Sep 7), socialinsider.io (engagement report, updated Nov 3 2026), socialmon.ai (web-designer post ideas, May 2026), manychat.com (2026 creator trends: repeatable series), newengen.com (Instagram trends Nov 2026), joshhall.co (ep. 392 Marie Brown), buffer.com (best content format, Mar 2026).
@@ -95,7 +98,7 @@ Instagram's own 5-step editing advice (Aug 2026): hook in the first seconds and 
 - **Mid-reel dip fix:** retention usually sags in the middle → put the re-hook (§3b) there with a punch-zoom + big word + sound hit.
 - **Audio:** our own voice-over leads from 0:00; quiet music bed under it, total loudness ≈ -14 LUFS. Business accounts may only use commercially licensed audio from Instagram's library — use our own music bed or the commercial library; check a trending sound is available to the account before using it (New Engen, Nov 2026). Never reuse another creator's original audio over new visuals (Instagram is testing flags for AI videos that do this, Nov 2026).
 - Progress bar at top (inside the top safe zone, thin). Export clean: no editor watermarks/end cards.
-- Optional Edits tools: beat markers (cut on beat), "First Draft" auto-trims pauses, Mac app with keyframes + auto-captions + 4K no-watermark export.
+- Optional Edits tools: beat markers (cut on beat), "First Draft" auto-trims pauses, Mac app with keyframes + auto-captions + 4K no-watermark export; Nov 2026 adds bulk caption editing, beat-synced effects, speed curves and text-animation timing (Instagram @creators, via SocialBee/Shareable).
 Sources: socialmediatoday.com (Instagram's creator video editing tips, Aug 2026; Edits updates Jan 2026), emplifi.io (Facebook Reels data: person/text/pacing/vertical, Mar 2026), trymypost.com (Reels safe zones, 2026), metricool.com (Edits/Instagram news, Nov 2026), thenextweb.com (content protection + AI audio reuse, Nov 17 2026).
 
 ## 6. Posting & growth
@@ -119,30 +122,31 @@ Sources: socialmediatoday.com (Instagram's creator video editing tips, Aug 2026;
 - (For Mouad) Share each day's best reel to Stories with a question sticker ("What does your website need most?") — story replies open DMs without needing a comment.
 Sources: socialmediatoday.com (Instagram 5-hashtag limit, Dec 18 2025; Mosseri on hashtags), metricool.com (best times study, Jun 2026; Instagram SEO + hashtags −32% views, Aug 2026; DM marketing funnel, Oct 2026), later.com (best time to post, Apr 2026), socialinsider.io (caption length benchmarks, Oct 28 2026), hootsuite.com (Instagram SEO: search ranking factors, Oct 2026), buffer.com (replying to comments, Nov 2025), socialmediaexaminer.com (DM automation model).
 
-## 6b. Scoreboard (Windsor, last 30 days — updated 2026-11-22)
-Ranked by skip rate (lower = better). Skip = % leaving before 3 s; watch = avg watch time. Judge after 72 h (Nov 22 reel is < 1 day old).
+## 6b. Scoreboard (Windsor, last 30 days — updated 2026-11-23)
+Ranked by skip rate (lower = better). Skip = % leaving before 3 s; watch = avg watch time. Judge after 72 h.
 | # | Reel (posted UTC) | Skip | Watch | Reach | First second (per hook + caption) |
 |---|---|---|---|---|---|
 | 1 | Pizza street (Nov 17 00:00) | **36%** | **11.2 s** | 126 | Two pizzerias on one street: one full, one empty |
-| 2 | Plumber 11 PM (Nov 20 17:00) | **46%** | 7.2 s | 106 | Night, pipe burst in a kitchen, she grabs her phone — two plumbers |
+| 2 | Plumber 11 PM (Nov 20 17:00) | **47%** | 7.1 s | 108 | Night, pipe burst in a kitchen, she grabs her phone — two plumbers |
 | 3 | Bakery "One text. One lost customer" (Nov 16 17:00) | 56% | 7.1 s | 114 | Customer texting; cake site stuck loading |
 | 4 | "What if your website was an employee?" (Nov 16 13:00) | 58% | 7.1 s | 126 | Metaphor: sleepy employee, no customer loss yet |
 | 5 | Dentist "front desk" (Nov 16 00:00) | 62% | 5.6 s | 114 | Metaphor: clinic front desk |
-| 6 | Tattoo "website comes alive: 7 layers" (Nov 20 00:00) | 73% | 3.4 s | 37 | Empty canvas starting a build animation |
-| 7 | Restaurant "One website wins every round" (Nov 17 17:00) | 78% | 5.2 s | 92 | Two sites side by side, abstract "round 1" |
-| 8 | Florist "just forgettable" (Nov 18 00:00) | 78% | 3.4 s | 28 | Plain florist site + contrarian line |
-| 9 | Wedding "getting married in June" (Nov 19 17:00) | 81% | 1.9 s | 15 | Bride on sofa opening a phone — no loss shown |
-| 10 | Vet "guess the business" (Nov 20 13:00) | 82% | 2.9 s | 22 | Quiz clue 1 on a blank site |
-| 11 | Hotel "3 things every hotel website needs" (Nov 21 00:00) | 83% | 2.7 s | 58 | List title card "1/3" |
+| 6 | Garage "$500 vs $5,000 website" (Nov 22 00:00) | 66% | 6.6 s | 104 | Same garage twice + price labels; one site makes buyers wait 3–5 days |
+| 7 | Tattoo "website comes alive: 7 layers" (Nov 20 00:00) | 73% | 3.4 s | 37 | Empty canvas starting a build animation |
+| 8 | Restaurant "One website wins every round" (Nov 17 17:00) | 78% | 5.2 s | 92 | Two sites side by side, abstract "round 1" |
+| 9 | Florist "just forgettable" (Nov 18 00:00) | 78% | 3.4 s | 28 | Plain florist site + contrarian line |
+| 10 | Wedding "getting married in June" (Nov 19 17:00) | 81% | 1.9 s | 15 | Bride on sofa opening a phone — no loss shown |
+| 11 | Vet "guess the business" (Nov 20 13:00) | 82% | 2.9 s | 23 | Quiz clue 1 on a blank site |
 | 12 | "3 websites, 3 businesses" (Nov 17 13:00) | 83% | 3.0 s | 115 | Showcase of 3 finished sites |
-| 13 | Garage "$500 vs $5,000 website" (Nov 22 00:00, early) | 86% | 2.0 s | 14 | Two site mockups + price labels, quiz question |
+| 13 | Hotel "3 things every hotel website needs" (Nov 21 00:00) | 83% | 2.6 s | 59 | List title card "1/3" |
 | 14 | Pilates "This one button" (Nov 19 13:00) | 86% | 4.0 s | 26 | Close-up of a booking button |
-Totals (14 reels): reach 993, **0 shares, 0 comments, 1 save**. Median skip 79%. Socialinsider small-account average ≈ 65%.
+Totals (14 reels): reach 1,087, **0 shares, 0 comments, 1 save**. Median skip 78%. Socialinsider small-account average ≈ 65%.
 **Wins:** a physical scene + a visible loss + "two businesses, one customer, only one wins" (#1, #2). The viewer sees someone losing something in frame 1.
-**Middle:** mid-action story or metaphor without a rival (#3–5, 56–62%).
-**Loses (72–86%), stop making them:** website showcases, build-up/layer animations, guess-the-business quizzes, "3 things" list openers, price-comparison quizzes ($500 vs $5,000), UI close-ups, story setups with no loss, abstract contrasts.
-**Reach note:** the first 6 reels (Nov 16–17) all got 92–126 reach whatever the hook (new-account test traffic). Since Nov 18 only the scene+loss reel (#2) passed 60 → reach is now earned reel by reel, through skip rate.
-**Posting gap:** Windsor has no reel for 5 of the 19 slots so far this week (Nov 18 13:00 + 17:00, Nov 19 00:00, Nov 21 13:00 + 17:00). Check that the video task posted them; daily freshness matters (§1).
+**Middle (56–66%):** mid-action story or metaphor without a rival (#3–5); price contrast between two versions of the same business with a stated loss (#6).
+**Loses (73–86%), stop making them:** website showcases, build-up/layer animations, guess-the-business quizzes, "3 things" list openers, UI close-ups, story setups with no loss, abstract contrasts.
+**Late-mover lesson (Nov 23):** the garage reel went from 86% skip / reach 14 at < 1 day to 66% / reach 104 at 72 h (it was probably shown to a wider, better-matched audience later). Never move a format to "Loses" on a < 72 h read.
+**Reach note:** the first 6 reels (Nov 16–17) all got 92–126 reach whatever the hook (new-account test traffic). Since Nov 18, only reels with two businesses + a loss (#2, #6) passed 100 → reach is earned reel by reel, through skip rate.
+**Posting gap:** Windsor shows only 1 reel/day on Nov 21 and Nov 22 (00:00 slot) and none since Nov 22 00:00; earlier gaps Nov 18 13:00 + 17:00, Nov 19 00:00. Windsor data is cached (no refresh on this plan), so the newest posts may just be missing — but if the video task is skipping slots, fix it: ~45% of recommended Reels are < 1 day old (§1).
 
 ## 6c. Week 1 review (Nov 16–22)
 - 1 format clearly beats the rest (scene + loss + rival). 2 data points only → next week replicates it across niches before we call it a rule.
@@ -162,11 +166,12 @@ Rules for the week: change one thing at a time; same 3 slots; keep 10–15 s; ju
 - Hashtags: 2 niche tags vs 4–5 for one week (Metricool 2026: hashtag-heavy posts ~32% fewer views, correlation only).
 - Caption 30–60 words vs < 30 words — shares/comments over 10 reels.
 - "Website breakdown" of an invented concept site (3 problems circled, labelled "concept").
-- (For Mouad) 1 carousel per week from the best reel's points (Buffer: carousels ~2× engagement per reach).
+- (For Mouad) 1 carousel per week from the best reel's points, with a commercial-library music bed (Buffer: carousels ~2× engagement per reach; music carousels reportedly appear in the Reels tab, Nov 2026).
 - Trial reels A/B: only once the account has access (Metricool: needs ~1,000 followers); until then A/B by alternating days as above.
 Sources: s21.q4cdn.com (Meta Q3 2026 prepared remarks: sequence ranking, 45% of recommended Reels < 1 day old, Oct 21 2026), socialmediatoday.com (Meta platform growth, Oct 22 2026), metricool.com (trial reels guide, Jul 2026), later.com (trial reels: 1–2 tests a week, Mar 2026), truefuturemedia.com (skip rate: change one opening element, benchmark vs last 10–20 reels, Jul 2026), keywordseverywhere.com (algorithm change tracker: no confirmed ranking change, checked Nov 21 2026).
 
 ## Changelog
+- 2026-11-23 (Mon, algorithm): no confirmed Reels ranking change in Nov (checked Meta/Mosseri coverage + news logs); §1 added reported Nov items (recommendation curbs on low-quality content, Series "Watch Next" test, music carousels in Reels tab) + "write for strangers" (Dash Social non-follower share); §6b Scoreboard refreshed — garage "$500 vs $5,000" matured from 86% to 66% skip / reach 104 → moved from Loses to Middle (§2), "never judge < 72 h" lesson; posting gap since Nov 22 00:00 flagged; §5 Nov Edits tools; §7 carousel test gets music. No new reels in Windsor since Nov 22, so week-2 experiments have no data yet.
 - 2026-11-22 (Sun, week review): §6b replaced by a ranked **Scoreboard** of all 14 reels (skip, watch, reach, first second) + win/lose verdict (scene+loss+rival wins at 36–46%; showcases, builds, quizzes, lists, price quizzes lose at 72–86%); 0 shares in 14 reels; 5 missing slots flagged; §6c week review; §7 rebuilt as 3 experiments for Nov 23–29 (winner in 6 new niches, spoken send line, new loss-first hook types) + backlog; §1 Meta Q3 2026 sequence ranking + 45% of recommended Reels < 1 day old, trial reels need ~1K followers; §4 timings set to the 10–15 s spec; old daily logs condensed.
 - 2026-11-21 (Sat, captions/hashtags/timing/DMs): §6 rebuilt — 5-part caption template (keyword-first line 1, send line, CTA, max 5 specific hashtags per Instagram's Dec 2025 cap + Mosseri "hashtags don't add reach"), 30–60-word captions (Socialinsider 28.6M posts), slots kept (our data: no slot effect; Metricool vs Later best-time studies conflict), first-hour replies (Buffer +21%), 5-step comment→DM→paid-quote flow, Story question-sticker idea; §6b Nov 21 (hotel numbered-list 79% skip); §7 hashtag stat corrected to 32%/34% + 2 caption tests.
 - 2026-11-20 (Fri, 2nd run): plumber reel (urgent night scene, 46% skip, reach 101 in 2 h) confirms story-with-loss → §2 format #1 now 2 of 3 daily reels; quizzes + build-layer demos added to Avoid; BrightLocal 2026 stats (54% visit site after good review; AI tools 45% of local recommendations) + 2 hook types in §3; Socialinsider shares data; §1 90-min "Features" test (no change for us); §6b evening update + reach-drop diagnosis.
